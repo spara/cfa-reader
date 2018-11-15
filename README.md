@@ -38,7 +38,7 @@
 
     > Tom Preston-Werner’s 2010 advice on development driven by clearly-defined ideas saved in a README. - mike.
 
-4.   Norris Numbers
+4.  Norris Numbers
 
     [http://www.teamten.com/lawrence/writings/norris-numbers.html](http://www.teamten.com/lawrence/writings/norris-numbers.html)
 
