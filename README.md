@@ -96,11 +96,11 @@
 
 10.  Why You Should Never Use MongoDB
 
-   [http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+    [http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 
-   November 11, 2013 by Sarah Mei
+    November 11, 2013 by Sarah Mei
 
-   > We’re including this article to clarify why you should in fact never use MongoDB. Mongo’s strengths are typically described as its free-form, schema-free nature, but as you’ll learn from Sarah Mei’s essay this is also a serious weakness for your application. If you believe that you need an unstructured, key-value store for your application look into PostgreSQL’s JSON column store. -mike.
+    > We’re including this article to clarify why you should in fact never use MongoDB. Mongo’s strengths are typically described as its free-form, schema-free nature, but as you’ll learn from Sarah Mei’s essay this is also a serious weakness for your application. If you believe that you need an unstructured, key-value store for your application look into PostgreSQL’s JSON column store. -mike.
 
 11.  Publishing Open Data – Do you really need an API?
 
@@ -358,33 +358,33 @@
      > 
      > Also, for what happens when Taco Bell attempts to innovate in mobile apps, see The Chipotlification of American Fast Food by Adam Chandler http://www.theatlantic.com/business/archive/2014/10/the-chipotlification-of-american-fast-food/382167/. - Cyd
 
- ## 2016
+## 2016
 
 1.   Institutional memory and reverse smuggling
 
      [https://web.archive.org/web/20120111055334/http://wrttn.in/04af1a](https://web.archive.org/web/20120111055334/http://wrttn.in/04af1a)
 
-    December 4, 2011 by an unknown author
+     December 4, 2011 by an unknown author
 
-2.   ETL for America
+2.  ETL for America
 
-     [http://daguar.github.io/2014/03/17/etl-for-america/](http://daguar.github.io/2014/03/17/etl-for-america/)
+    [http://daguar.github.io/2014/03/17/etl-for-america/](http://daguar.github.io/2014/03/17/etl-for-america/)
 
     March 17, 2014 by Dave Guarino
 
     > This article is by a 2013 Fellow and describes what the main technical challenge inside government technology is right now. It’s not sexy, it’s not scalable, it’s not easy. ETL inside of your City hall is boring inglorious work, yet it is the job for right now. It’s up to you to get it right so those that come after you can do the fun work with ease. -Andrew
 
-3.   Please Offer An Excel Export Option
+3.  Please Offer An Excel Export Option
 
-     [http://www.evanmiller.org/please-offer-an-excel-export-option.html](http://www.evanmiller.org/please-offer-an-excel-export-option.html)
+    [http://www.evanmiller.org/please-offer-an-excel-export-option.html](http://www.evanmiller.org/please-offer-an-excel-export-option.html)
 
     November 30, 2014 by Evan Miller
 
     > Design your product to integrate with the tools your users use and the processes they follow. Have your application import the product of applications that are already in use. Have it export into formats that are familiar and practical. —Tomas
 
-4.   Publishing Open Data – Do you really need an API?
+4.  Publishing Open Data – Do you really need an API?
 
-     [https://www.peterkrantz.com/2012/publishing-open-data-api-design/](https://www.peterkrantz.com/2012/publishing-open-data-api-design/)
+    [https://www.peterkrantz.com/2012/publishing-open-data-api-design/](https://www.peterkrantz.com/2012/publishing-open-data-api-design/)
 
     March 19, 2012 by Peter Krantz
 
@@ -395,148 +395,148 @@
     >   
     > -mike.
 
-5.   A New Way to Listen
+5.  A New Way to Listen
 
-     [http://alistapart.com/article/a-new-way-to-listen](http://alistapart.com/article/a-new-way-to-listen)
+    [http://alistapart.com/article/a-new-way-to-listen](http://alistapart.com/article/a-new-way-to-listen)
 
     February 17, 2015 by Indi Young
 
     > Indi Young draws the important distinction between casual conversation and journalism from the art of active listening to build empathy. She outlines the value of this approach and strategies you can practice to better surface core motivations, mental models, and factors driving behaviors. - Colleen
 
-6.   Help Joy help you. On the unusability of internal systems
+6.  Help Joy help you. On the unusability of internal systems
 
-     [http://www.disambiguity.com/help-joy-help-you/](http://www.disambiguity.com/help-joy-help-you/)
+    [http://www.disambiguity.com/help-joy-help-you/](http://www.disambiguity.com/help-joy-help-you/)
 
     July 9, 2014 by Leisa Reichelt
 
     > One thing you will quickly discover is that as bad as public-facing government technology can be, the internal tools used by public servants are often much worse. Often bad to the point of abusiveness, to be honest. Leisa Reichelt, the head of UX for Gov.UK, talks here about an experience she had where she came to grips with how hard a customer service person was working to paper over the shortcomings of the systems she worked with. Imagine how well she could help her clients if she wasn’t spending all her energy on clever and insane workarounds. You’ll meet a lot of dedicated public servants in February, and thinking about how you can help them be great at their jobs will be really important. - Cyd
 
-7.   Long-Distance Relationships
+7.  Long-Distance Relationships
 
-     [https://deardesignstudent.com/long-distance-relationships-c7069cc67af3](https://deardesignstudent.com/long-distance-relationships-c7069cc67af3)
+    [https://deardesignstudent.com/long-distance-relationships-c7069cc67af3](https://deardesignstudent.com/long-distance-relationships-c7069cc67af3)
 
     April 6, 2015 by Erika Hall
 
     > In her characteristically witty style, Erika Hall lays out some insightful rules of thumb for remote teams – assigning a client-side herder, guiding clients on how to participate at each stage in the design process, cultivating frequent conversation during and between meetings, and more. -Colleen
 
-8.   The Web Is a Customer Service Medium
+8.  The Web Is a Customer Service Medium
 
-     [http://www.ftrain.com/wwic.html](http://www.ftrain.com/wwic.html)
+    [http://www.ftrain.com/wwic.html](http://www.ftrain.com/wwic.html)
 
     January 6, 2011 by Paul Ford
 
     > This is as good a description as I've ever seen of the gulf that people have to cross to truly understand the impact of the internet on their business. Most of our government partners start the year on the far side of it, and finding ways to get them over it is critical work for fellowship teams. By and large, we've seen showing it work much better than saying it, as you might expect - but it's good to really ground yourself in what "it" is. - Cyd
 
-9.   Want to write convincing futures? Work retail.
+9.  Want to write convincing futures? Work retail.
 
-     [http://madelineashby.com/?p=1819](http://madelineashby.com/?p=1819)
+    [http://madelineashby.com/?p=1819](http://madelineashby.com/?p=1819)
 
     July 14, 2015 by Madeline Ashby
 
     > Madeline's story beautifully illustrates the power of being on the front lines. Designers should actively seek out ways to expose themselves to the intricicies of needs and motivations across current and potential customers. -Colleen
 
-10.   Agile for non-digital projects
+10.  Agile for non-digital projects
 
-     [https://mojdigital.blog.gov.uk/2014/10/01/agile-for-non-digital-projects/](https://mojdigital.blog.gov.uk/2014/10/01/agile-for-non-digital-projects/)
+    [https://mojdigital.blog.gov.uk/2014/10/01/agile-for-non-digital-projects/](https://mojdigital.blog.gov.uk/2014/10/01/agile-for-non-digital-projects/)
 
     October 1, 2014 by Amy Wagner
 
-11.   Coding, Fast and Slow: Developers and the Psychology of Overconfidence
+11.  Coding, Fast and Slow: Developers and the Psychology of Overconfidence
 
      [http://blog.hut8labs.com/coding-fast-and-slow.html](http://blog.hut8labs.com/coding-fast-and-slow.html)
 
-    April 22, 2013 by Dan Milstein
+     April 22, 2013 by Dan Milstein
 
-    > Dan Milstein offers one of the strongest justifications for agile and lean software development, grounded in Daniel Kahneman’s psychology text “Thinking Fast and Slow”. In short: no one knows how to estimate software because writing code is identical to learning, so it’s best to use an approach that’s suited for unknown timescales and outcomes.  
-    > “No Deadlines For You! Software Dev Without Estimates, Specs or Other Lies” is an excellent follow-up post to this one.  
-    >   
-    > -mike
+     > Dan Milstein offers one of the strongest justifications for agile and lean software development, grounded in Daniel Kahneman’s psychology text “Thinking Fast and Slow”. In short: no one knows how to estimate software because writing code is identical to learning, so it’s best to use an approach that’s suited for unknown timescales and outcomes.  
+     > “No Deadlines For You! Software Dev Without Estimates, Specs or Other Lies” is an excellent follow-up post to this one.  
+     >   
+     > -mike
 
-12.   The fixie federal IT paradigm
+12.  The fixie federal IT paradigm
 
      [http://feomike.github.io/post/fixie-federal-it-paradigmn.html](http://feomike.github.io/post/fixie-federal-it-paradigmn.html)
 
-    July 12, 2014 by Mike Byrne
+     July 12, 2014 by Mike Byrne
 
-    > Mike “Good Mike” Byrne has insights into government procurement that span his years at the Consumer Finance Protection Bureau, his input into the White House Open Data Policy, his time at the FCC, and his service to the State of California. He also happens to be a bike nerd with a keen understanding of how simplicity can win for government technology. -mike.
+     > Mike “Good Mike” Byrne has insights into government procurement that span his years at the Consumer Finance Protection Bureau, his input into the White House Open Data Policy, his time at the FCC, and his service to the State of California. He also happens to be a bike nerd with a keen understanding of how simplicity can win for government technology. -mike.
 
-13.   Organizational Skills Beat Algorithmic Wizardry
+13.  Organizational Skills Beat Algorithmic Wizardry
 
      [http://prog21.dadgum.com/177.html](http://prog21.dadgum.com/177.html)
 
-    June 19, 2013 by James Hague
+     June 19, 2013 by James Hague
 
-14.   Most of government is mostly service design most of the time. Discuss.
+14.  Most of government is mostly service design most of the time. Discuss.
 
      [http://blog.mattedgar.com/2015/05/12/most-of-government-is-mostly-service-design-most-of-the-time-discuss/](http://blog.mattedgar.com/2015/05/12/most-of-government-is-mostly-service-design-most-of-the-time-discuss/)
 
     May 12, 2015 by Matt Edgar
 
-15.   People, Not Data
+15.  People, Not Data
 
      [https://medium.com/@lippytak/people-not-data-47434acb50a8](https://medium.com/@lippytak/people-not-data-47434acb50a8)
 
-    Jake Solomon, January 5 2014
+     Jake Solomon, January 5 2014
 
-    > This is a terrific piece by 2013 Fellow Jake Solomon about his experience observing clients at the Food Stamps office in SF. It’s natural to get outraged by the conditions described here, but we include it partly to ask a more interesting question than “is this inexcusable?” (“yes”). The question is, what are the conditions affecting government organizations and public servants that lead them to accept such things as matters of course? (Of note, Jake didn’t join us as a UX person or a researcher; he just did this, with encouragement from me and his teammate Marc Hebert, and wrote about it.) - Cyd
+     > This is a terrific piece by 2013 Fellow Jake Solomon about his experience observing clients at the Food Stamps office in SF. It’s natural to get outraged by the conditions described here, but we include it partly to ask a more interesting question than “is this inexcusable?” (“yes”). The question is, what are the conditions affecting government organizations and public servants that lead them to accept such things as matters of course? (Of note, Jake didn’t join us as a UX person or a researcher; he just did this, with encouragement from me and his teammate Marc Hebert, and wrote about it.) - Cyd
 
-16.   Slow Ideas
+16.  Slow Ideas
 
      [http://www.newyorker.com/magazine/2013/07/29/slow-ideas](http://www.newyorker.com/magazine/2013/07/29/slow-ideass)
 
-    Atul Gawande, July 29, 2013
+     Atul Gawande, July 29, 2013
 
-    > One of the most profound things I’ve ever read about how substantial innovations actually get traction (or don’t). It made me realize all over again the critical role that the Fellows play in the project of transforming government. Even when it feels rough, even when it feels like you’re making no progress (there will be some times like that), you’ll be doing the great and difficult work described in this piece. By being present, as friendly, trustworthy people who are there to help, you’ll be changing minds bit by bit, the entire year. - Cyd
+     > One of the most profound things I’ve ever read about how substantial innovations actually get traction (or don’t). It made me realize all over again the critical role that the Fellows play in the project of transforming government. Even when it feels rough, even when it feels like you’re making no progress (there will be some times like that), you’ll be doing the great and difficult work described in this piece. By being present, as friendly, trustworthy people who are there to help, you’ll be changing minds bit by bit, the entire year. - Cyd
 
-17.   The smartest cities rely on citizen cunning and unglamorous technology
+17.  The smartest cities rely on citizen cunning and unglamorous technology
 
      [http://www.theguardian.com/cities/2014/dec/22/the-smartest-cities-rely-on-citizen-cunning-and-unglamorous-technology](http://www.theguardian.com/cities/2014/dec/22/the-smartest-cities-rely-on-citizen-cunning-and-unglamorous-technology)
 
-    December 22, 2014 by Adam Greenfield
+     December 22, 2014 by Adam Greenfield
 
-    > The “smart city” sales pitch is a sham and the discussions that officials in your cities will want to have about it are a distraction. Focus on real people's needs and you'll get to where you need to be. We don't build software with big top down plans anymore, and there are lessons here for urban planners as well as some fantasic examples of creative projects. Former Fellow Lou Huang described it as [iterative placemaking.](http://www.codeforamerica.org/blog/2013/04/25/lean-startups-and-%0Athe-rise-of-iterative-placemaking/) —Andrew
+     > The “smart city” sales pitch is a sham and the discussions that officials in your cities will want to have about it are a distraction. Focus on real people's needs and you'll get to where you need to be. We don't build software with big top down plans anymore, and there are lessons here for urban planners as well as some fantasic examples of creative projects. Former Fellow Lou Huang described it as [iterative placemaking.](http://www.codeforamerica.org/blog/2013/04/25/lean-startups-and-%0Athe-rise-of-iterative-placemaking/) —Andrew
 
-18.   I Have 21 Radical Ideas
+18.  I Have 21 Radical Ideas
 
      [https://medium.com/responsive-engineering/i-have-21-radical-ideas-b428414a4efc](https://medium.com/responsive-engineering/i-have-21-radical-ideas-b428414a4efc)
 
-    September 12, 2013 by Kris Galet
+     September 12, 2013 by Kris Galet
 
-19.   Everything a government attorney needs to know about open source software licensing
+19.  Everything a government attorney needs to know about open source software licensing
 
      [http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
-    October 8, 2014 by Ben Balter
+     October 8, 2014 by Ben Balter
 
-    > A high-level overview of legal issues related to open-source software development, written for government attorneys. May be useful when making a case to a city’s or county’s legal department. —Tomas
+     > A high-level overview of legal issues related to open-source software development, written for government attorneys. May be useful when making a case to a city’s or county’s legal department. —Tomas
 
-20.   Stevey's Google Platforms Rant
+20.  Stevey's Google Platforms Rant
 
      [https://plus.google.com/+RipRowan/posts/eVeouesvaVX](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 
-    October 12, 2011 by Steve Yegge
+     October 12, 2011 by Steve Yegge
 
     > Steve Yegge’s platform rant was an instant classic when it leaked in 2011\. Code for America fellowship projects aren’t expected to be platforms as part of the normal first-year experience, but it’s worth understanding what the ramp from fellowship prototypes to products and platforms looks like. -mike.
 
-21.   No Stack Startups
+21.  No Stack Startups
 
      [http://blog.aweissman.com/2015/05/no-stack-startups.html](http://blog.aweissman.com/2015/05/no-stack-startups.html)
 
-    May 6th, 2015 by Andy Weismann
+     May 6th, 2015 by Andy Weismann
 
-22.   Welcome to the Open Data Movement’s Turbulent Teenage Years
+22.  Welcome to the Open Data Movement’s Turbulent Teenage Years
 
      [https://nextcity.org/features/view/open-data-cities-mark-headd-philadelphia-michael-nutter](https://nextcity.org/features/view/open-data-cities-mark-headd-philadelphia-michael-nutter)
 
-    January 12, 2015 by Andrew Zaleski
+     January 12, 2015 by Andrew Zaleski
 
-    > A survey of the current state of city-level open data efforts. Some highlights: 1\. People will resist opening access to data that could hurt or embarrass them. Even a mandate from the Mayor's office may not budge the status quo. 2\. If there is no clear user need motivating the release of a data set, it's likely to sit unused and ineffective. 3\. Outreach to underrepresented residents is critical to understanding user needs. 4\. A mature civic tech community can drive the release and effective use of open data. —Tomas
+     > A survey of the current state of city-level open data efforts. Some highlights: 1\. People will resist opening access to data that could hurt or embarrass them. Even a mandate from the Mayor's office may not budge the status quo. 2\. If there is no clear user need motivating the release of a data set, it's likely to sit unused and ineffective. 3\. Outreach to underrepresented residents is critical to understanding user needs. 4\. A mature civic tech community can drive the release and effective use of open data. —Tomas
 
-23.   Russell Davies
+23.  Russell Davies
 
-    > Who is Russell Davies and how has he managed to get an entire section of articles to himself? That’s a good question. He works for the Government Digital Service in the UK and is the man to blame for the “simpler, clear, faster” slogan along with finding appropriate language to help civic servants understand their problem domain better and fulfil their remit. He rather modestly describes his job as “words and powerpoint”, but he has set the underlying tone for GDS’ work in an incredible way.
-    > 
-    > Russell has an eye for the pointless. The time wasting. The complicated. He says little, but what he does say is simple and clear. Almost everything he writes is on-point and he is articluating the problems in government design in the best way I have seen. Here’s a selection of some of his articles. - Frances
+     > Who is Russell Davies and how has he managed to get an entire section of articles to himself? That’s a good question. He works for the Government Digital Service in the UK and is the man to blame for the “simpler, clear, faster” slogan along with finding appropriate language to help civic servants understand their problem domain better and fulfil their remit. He rather modestly describes his job as “words and powerpoint”, but he has set the underlying tone for GDS’ work in an incredible way.
+     > 
+     > Russell has an eye for the pointless. The time wasting. The complicated. He says little, but what he does say is simple and clear. Almost everything he writes is on-point and he is articluating the problems in government design in the best way I have seen. Here’s a selection of some of his articles. - Frances
 
     *    Waste No Words
 
@@ -568,62 +568,62 @@
 
         March 18, 2014 by Russell Davies
 
-24.   Six months at the Government Digital Service
+24.  Six months at the Government Digital Service
 
      [http://alicebartlett.co.uk/blog/six-months-at-gds](http://alicebartlett.co.uk/blog/six-months-at-gds)
 
-    August 7, 2014 by Alice Bartlett
+     August 7, 2014 by Alice Bartlett
 
-25.   On Strategy: The strategy is delivery. Again.
+25.  On Strategy: The strategy is delivery. Again.
 
      [http://mikebracken.com/blog/the-strategy-is-delivery-again/](http://mikebracken.com/blog/the-strategy-is-delivery-again/)
 
-    January 6, 2013 by Mike Bracken
+     January 6, 2013 by Mike Bracken
 
-    > I had the pleasure of working for Mike, at GDS, before I joined Code for America. When this man says "the strategy is delivery" he really means it. Above all else, there is a critical need to create better services for our users and we should never let anything stand in the way, be that policy or politics. -Frances
+     > I had the pleasure of working for Mike, at GDS, before I joined Code for America. When this man says "the strategy is delivery" he really means it. Above all else, there is a critical need to create better services for our users and we should never let anything stand in the way, be that policy or politics. -Frances
 
-26.   Enduring CSS: writing style sheets for rapidly changing, long-lived projects
+26.  Enduring CSS: writing style sheets for rapidly changing, long-lived projects
 
      [http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
 
-    August 7, 2014 by Ben Frain
+     August 7, 2014 by Ben Frain
 
-    > CSS is the worst. It’s the weakest part of the front-end webstack, and it will save you pain later if you have some coping strategies in your back pocket. Future-you will be thankful. -Frances
+     > CSS is the worst. It’s the weakest part of the front-end webstack, and it will save you pain later if you have some coping strategies in your back pocket. Future-you will be thankful. -Frances
 
-27.   The emperor’s new clothes were built with Node.js
+27.  The emperor’s new clothes were built with Node.js
 
      [http://notes.ericjiang.com/posts/751](http://notes.ericjiang.com/posts/751)
 
-    June 4, 2014 by Eric Jiang
+     June 4, 2014 by Eric Jiang
 
-    > Eric Jiang offers a caustic take on the weaknesses of Node.js. While Code for America encourages quick-turnaround experiments with a variety of languages and tools, we've found Node.js to be especially lacking in two important areas: the Node ecosystem is too reliant on quickly-changing conventions, and government partners don’t know how to cope with server-side Javascript.
-    > 
-    > When in doubt:
-    > 
-    > *   Write code
-    > *   Not too much
-    > *   Mostly procedural
-    > 
-    > -mike.
+     > Eric Jiang offers a caustic take on the weaknesses of Node.js. While Code for America encourages quick-turnaround experiments with a variety of languages and tools, we've found Node.js to be especially lacking in two important areas: the Node ecosystem is too reliant on quickly-changing conventions, and government partners don’t know how to cope with server-side Javascript.
+     > 
+     > When in doubt:
+     > 
+     > *   Write code
+     > *   Not too much
+     > *   Mostly procedural
+     > 
+     > -mike.
 
-28.   Why You Should Never Use MongoDB
+28.  Why You Should Never Use MongoDB
 
      [http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 
-    November 11, 2013 by Sarah Mei
+     November 11, 2013 by Sarah Mei
 
-    > We’re including this article to clarify why you should in fact never use MongoDB. Mongo’s strengths are typically described as its free-form, schema-free nature, but as you’ll learn from Sarah Mei’s essay this is also a serious weakness for your application. If you believe that you need an unstructured, key-value store for your application look into PostgreSQL’s JSON column store. -mike.
+     > We’re including this article to clarify why you should in fact never use MongoDB. Mongo’s strengths are typically described as its free-form, schema-free nature, but as you’ll learn from Sarah Mei’s essay this is also a serious weakness for your application. If you believe that you need an unstructured, key-value store for your application look into PostgreSQL’s JSON column store. -mike.
 
-29.   Deep Inside Taco Bell’s Doritos Locos Taco
+29.  Deep Inside Taco Bell’s Doritos Locos Taco
 
      [http://www.fastcompany.com/3008346/deep-inside-taco-bells-doritos-locos-taco](http://www.fastcompany.com/3008346/deep-inside-taco-bells-doritos-locos-taco)
 
-    May 1, 2013 by Austin Carr
+     May 1, 2013 by Austin Carr
 
-    > This super fun article details a relentless quest for innovation in something that doesn’t matter very much at all. The number of times the team bounces back from adversity, from failure, from total irrelevance, is astounding. May we all be this tenacious in pursuing better government and government technology!
-    > 
-    > Also, for what happens when Taco Bell attempts to innovate in mobile apps, see The Chipotlification of American Fast Food by Adam Chandler http://www.theatlantic.com/business/archive/2014/10/the-chipotlification-of-american-fast-food/382167/.
-    > 
-    >   
-    > - Cyd
+     > This super fun article details a relentless quest for innovation in something that doesn’t matter very much at all. The number of times the team bounces back from adversity, from failure, from total irrelevance, is astounding. May we all be this tenacious in pursuing better government and government technology!
+     > 
+     > Also, for what happens when Taco Bell attempts to innovate in mobile apps, see The Chipotlification of American Fast Food by Adam Chandler http://www.theatlantic.com/business/archive/2014/10/the-chipotlification-of-american-fast-food/382167/.
+     > 
+     >   
+     > - Cyd
 
