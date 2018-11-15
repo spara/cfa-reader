@@ -542,7 +542,7 @@
 
           [http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html](http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html)
 
-         February 8, 2014 by Russell Davies
+          February 8, 2014 by Russell Davies
 
      *    Consumers, users, people, mammals
 
