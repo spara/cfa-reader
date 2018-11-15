@@ -538,35 +538,35 @@
      > 
      > Russell has an eye for the pointless. The time wasting. The complicated. He says little, but what he does say is simple and clear. Almost everything he writes is on-point and he is articluating the problems in government design in the best way I have seen. Here’s a selection of some of his articles. - Frances
 
-    *    Waste No Words
+     *    Waste No Words
 
-         [http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html](http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html)
+          [http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html](http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html)
 
-        February 8, 2014 by Russell Davies
+         February 8, 2014 by Russell Davies
 
-    *    Consumers, users, people, mammals
+     *    Consumers, users, people, mammals
 
-         [http://russelldavies.typepad.com/planning/2014/06/consumers-users-people-mammals.html](http://russelldavies.typepad.com/planning/2014/06/consumers-users-people-mammals.html)
+          [http://russelldavies.typepad.com/planning/2014/06/consumers-users-people-mammals.html](http://russelldavies.typepad.com/planning/2014/06/consumers-users-people-mammals.html)
 
-        June 15, 2014 by Russell Davies
+          June 15, 2014 by Russell Davies
 
-    *    Activities not audiences
+     *    Activities not audiences
 
-         [http://russelldavies.typepad.com/planning/2013/10/activities-not-audiences.html](http://russelldavies.typepad.com/planning/2013/10/activities-not-audiences.html)
+          [http://russelldavies.typepad.com/planning/2013/10/activities-not-audiences.html](http://russelldavies.typepad.com/planning/2013/10/activities-not-audiences.html)
 
-        October 9, 2013 by Russell Davies
+          October 9, 2013 by Russell Davies
 
-    *    Digital tranformation
+     *    Digital tranformation
 
-         [http://russelldavies.typepad.com/planning/2014/07/digital-transformation.html](http://russelldavies.typepad.com/planning/2014/07/digital-transformation.html)
+          [http://russelldavies.typepad.com/planning/2014/07/digital-transformation.html](http://russelldavies.typepad.com/planning/2014/07/digital-transformation.html)
 
-        July 4, 2014 by Russell Davies
+          July 4, 2014 by Russell Davies
 
-    *    Naming Digital
+      *    Naming Digital
 
-         [http://russelldavies.typepad.com/planning/2014/03/naming-digital.html](http://russelldavies.typepad.com/planning/2014/03/naming-digital.html)
+           [http://russelldavies.typepad.com/planning/2014/03/naming-digital.html](http://russelldavies.typepad.com/planning/2014/03/naming-digital.html)
 
-        March 18, 2014 by Russell Davies
+            March 18, 2014 by Russell Davies
 
 24.  Six months at the Government Digital Service
 
