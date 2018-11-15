@@ -46,7 +46,7 @@
 
     > Code for America’s fellowship specializes in the delivery of alpha-stage apps to government partners. A typical fellowship app should top out at 2,000 lines of code. Lawrence Kesteloot explains why. -mike.
 
-5.   Enduring CSS: writing style sheets for rapidly changing, long-lived projects
+5.  Enduring CSS: writing style sheets for rapidly changing, long-lived projects
 
     [http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
 
@@ -54,7 +54,7 @@
 
     > CSS is the worst. It’s the weakest part of the front-end webstack, and it will save you pain later if you have some coping strategies in your back pocket. Future-you will be thankful. - Frances
 
-6.   Cargo Cult CSS
+6.  Cargo Cult CSS
 
      [http://www.kapowaz.net/articles/cargo-cult-css](http://www.kapowaz.net/articles/cargo-cult-css)
 
