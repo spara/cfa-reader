@@ -122,11 +122,11 @@
 
 13.  Stevey's Google Platforms Rant
 
-    [https://plus.google.com/+RipRowan/posts/eVeouesvaVX](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
+     [https://plus.google.com/+RipRowan/posts/eVeouesvaVX](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 
-    October 12, 2011 by Steve Yegge
+     October 12, 2011 by Steve Yegge
 
-    > Steve Yegge’s platform rant was an instant classic when it leaked in 2011\. Code for America fellowship projects aren’t expected to be platforms as part of the normal first-year experience, but it’s worth understanding what the ramp from fellowship prototypes to products and platforms looks like. - mike
+     > Steve Yegge’s platform rant was an instant classic when it leaked in 2011\. Code for America fellowship projects aren’t expected to be platforms as part of the normal first-year experience, but it’s worth understanding what the ramp from fellowship prototypes to products and platforms looks like. - mike
 
 14.  The Web Is a Customer Service Medium
 
@@ -318,45 +318,45 @@
      > 
      > Russell has an eye for the pointless. The time wasting. The complicated. He says little, but what he does say is simple and clear. Almost everything he writes is on-point and he is articluating the problems in government design in the best way I have seen. Here’s a selection of some of his articles. - Frances
 
-    *   Waste No Words
+     *   Waste No Words
 
-        [http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html](http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html)
+         [http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html](http://russelldavies.typepad.com/planning/2014/02/waste-no-words.html)
 
-        February 8, 2014 by Russell Davies
+         February 8, 2014 by Russell Davies
 
-    *   Consumers, users, people, mammals
+     *   Consumers, users, people, mammals
+ 
+         [http://russelldavies.typepad.com/planning/2014/06/consumers-users-people-mammals.html](http://russelldavies.typepad.com/planning/2014/06/consumers-users-people-mammals.html)
 
-        [http://russelldavies.typepad.com/planning/2014/06/consumers-users-people-mammals.html](http://russelldavies.typepad.com/planning/2014/06/consumers-users-people-mammals.html)
+         June 15, 2014 by Russell Davies
 
-        June 15, 2014 by Russell Davies
+     *    Activities not audiences
+ 
+          [http://russelldavies.typepad.com/planning/2013/10/activities-not-audiences.html](http://russelldavies.typepad.com/planning/2013/10/activities-not-audiences.html)
 
-    *    Activities not audiences
+         October 9, 2013 by Russell Davies
 
-         [http://russelldavies.typepad.com/planning/2013/10/activities-not-audiences.html](http://russelldavies.typepad.com/planning/2013/10/activities-not-audiences.html)
+     *    Digital tranformation
+ 
+          [http://russelldavies.typepad.com/planning/2014/07/digital-transformation.html](http://russelldavies.typepad.com/planning/2014/07/digital-transformation.html)
+ 
+         July 4, 2014 by Russell Davies
+ 
+     *    Naming Digital
 
-        October 9, 2013 by Russell Davies
+          [http://russelldavies.typepad.com/planning/2014/03/naming-digital.html](http://russelldavies.typepad.com/planning/2014/03/naming-digital.html)
 
-    *    Digital tranformation
+         March 18, 2014 by Russell Davies
 
-         [http://russelldavies.typepad.com/planning/2014/07/digital-transformation.html](http://russelldavies.typepad.com/planning/2014/07/digital-transformation.html)
-
-        July 4, 2014 by Russell Davies
-
-    *    Naming Digital
-
-         [http://russelldavies.typepad.com/planning/2014/03/naming-digital.html](http://russelldavies.typepad.com/planning/2014/03/naming-digital.html)
-
-        March 18, 2014 by Russell Davies
-
-38.   Deep Inside Taco Bell’s Doritos Locos Taco
+38.  Deep Inside Taco Bell’s Doritos Locos Taco
 
      [http://www.fastcompany.com/3008346/deep-inside-taco-bells-doritos-locos-taco](http://www.fastcompany.com/3008346/deep-inside-taco-bells-doritos-locos-taco)
 
-    May 1, 2013 by Austin Carr
+     May 1, 2013 by Austin Carr
 
-    > This super fun article details a relentless quest for innovation in something that doesn’t matter very much at all. The number of times the team bounces back from adversity, from failure, from total irrelevance, is astounding. May we all be this tenacious in pursuing better government and government technology!
-    > 
-    > Also, for what happens when Taco Bell attempts to innovate in mobile apps, see The Chipotlification of American Fast Food by Adam Chandler http://www.theatlantic.com/business/archive/2014/10/the-chipotlification-of-american-fast-food/382167/. - Cyd
+     > This super fun article details a relentless quest for innovation in something that doesn’t matter very much at all. The number of times the team bounces back from adversity, from failure, from total irrelevance, is astounding. May we all be this tenacious in pursuing better government and government technology!
+     > 
+     > Also, for what happens when Taco Bell attempts to innovate in mobile apps, see The Chipotlification of American Fast Food by Adam Chandler http://www.theatlantic.com/business/archive/2014/10/the-chipotlification-of-american-fast-food/382167/. - Cyd
 
  ## 2016
 
